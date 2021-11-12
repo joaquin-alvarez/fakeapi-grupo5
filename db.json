@@ -1,15 +1,6 @@
 {
     "femeninos": [
         {
-            "id": "test",
-            "nombre": "soy un test",
-            "descripcion": "Jabón elaborado artesanalmente mediante el método de saponificación en frío, bajo control de temperatura y tiempo de estacionamiento. Este proceso permite conservar la glicerina natural que se produce durante la saponificación (reacción química) y preserva las maravillosas propiedades antioxidantes del oliva y coco.",
-            "precio": "610.00",
-            "fechaPublicacion": "04/11/2021",
-            "cantidadDisponible": "10",
-            "imagen": "images/productosMujer/productoMujer1.webp"
-        },
-        {
             "id": "fem01",
             "nombre": "Jabon de Cacao Exfoliante",
             "descripcion": "Jabón elaborado artesanalmente mediante el método de saponificación en frío, bajo control de temperatura y tiempo de estacionamiento. Este proceso permite conservar la glicerina natural que se produce durante la saponificación (reacción química) y preserva las maravillosas propiedades antioxidantes del oliva y coco.",
@@ -94,5 +85,31 @@
             "cantidadDisponible": "5",
             "imagen": "images/productosFarmacia/farmacia3.webp"
         }
-    ]
+    ],
+    "testimonios" : 
+    {
+        "usuarios": [
+            {
+                "nombre": "Juan",
+                "apellido": "Pérez",
+                "testimonio": "Utilizo productos cosméticos desde los 15 años y Shave Oil PURE es, con diferencia, el mejor que he probado jamás. Puedes sentir los principios activos penetrando literalmente en la piel, en lugar de quedarse en la superficie. Ahora tengo la piel más luminosa e hidratada..",
+                "imagen": "images/clientes/01.webp",
+                "social": {
+                    "facebook": "https://es-la.facebook.com/" ,
+                    "instagram": "https://www.instagram.com/?hl=es"
+                }
+            },
+            {
+                "nombre": "Ana",
+                "apellido": "Clara",
+                "testimonio": "Con diferencia el mejor tratamiento que he probado. Desde el momento en que me aplico Tonico Segin, me noto la piel y me veo mucho mejor: cierra los poros, el tono es más uniforme y la hidratación es perfecta. Y lo que me encanta es que el producto viene puro, no diluido. Es un tratamiento específico para mi tipo de piel. Otros productos comparables son entre tres y cuatro veces más caros..",
+                "imagen": "images/clientes/02.webp",
+                "social": {
+                    "facebook": "https://es-la.facebook.com/" ,
+                    "instagram": "https://www.instagram.com/?hl=es"
+                }
+            }
+        ]
+    }
+    
 }
