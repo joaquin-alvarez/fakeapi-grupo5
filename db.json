@@ -26,15 +26,6 @@
             "fechaPublicacion": "04/11/2021",
             "cantidadDisponible": "7",
             "imagen": "images/productosMujer/productoMujer3.webp"
-        },
-        {
-            "id": "test",
-            "nombre": "soy un test",
-            "descripcion": "Jabón elaborado artesanalmente mediante el método de saponificación en frío, bajo control de temperatura y tiempo de estacionamiento. Este proceso permite conservar la glicerina natural que se produce durante la saponificación (reacción química) y preserva las maravillosas propiedades antioxidantes del oliva y coco.",
-            "precio": "610.00",
-            "fechaPublicacion": "04/11/2021",
-            "cantidadDisponible": "10",
-            "imagen": "images/productosMujer/productoMujer1.webp"
         }
     ],
     "masculinos": [
