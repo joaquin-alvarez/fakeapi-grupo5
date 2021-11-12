@@ -86,7 +86,7 @@
             "imagen": "images/productosFarmacia/farmacia3.webp"
         }
     ],
-    "testimonios" : 
+    "testimonios" : [
     {
         "usuarios": [
             {
@@ -111,5 +111,5 @@
             }
         ]
     }
-    
+    ]
 }
