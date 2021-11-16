@@ -1,8 +1,29 @@
 {
     "header_images": [
-            { "id": "img1", "imagen": "images/slide/carrusel1.webp" },
-            { "id": "img2", "imagen": "images/slide/carrusel2.webp" },
-            { "id": "img3", "imagen": "images/slide/carrusel3.webp" }
+            { 
+                "id": "img1", 
+                "imagen": "images/slide/carrusel1.webp",
+                "titulo": "<strong> Shine</strong>",
+                "texto": "Tienda Shine, todo para sentirte bien",
+                "href-boton": "#nosotros",
+                "texto-boton": "Conocenos!"
+            },
+            { 
+                "id": "img2", 
+                "imagen": "images/slide/carrusel2.webp",
+                "titulo": "<strong> Nuestros</strong> clientes nos recomiendan",
+                "texto": "",
+                "href-boton": "#testimonios",
+                "texto-boton": "Escuchalos!"
+            },
+            { 
+                "id": "img3", 
+                "imagen": "images/slide/carrusel3.webp",
+                "titulo": "<strong> Encontrá</strong> las mejores ofertas",
+                "texto": "En Shine tenemos todo lo que estás buscando y a un precio increíble!",
+                "href-boton": "#productosFemeninos",
+                "texto-boton": "Encontralo!"
+            }
     ],
     "femeninos": [
         {
