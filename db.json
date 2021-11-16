@@ -1,10 +1,8 @@
 {
-    "assets": [
-        "header-images": [
+    "header_images": [
             "carrusel1": { "imagen": "images/slide/carrusel1.webp" },
             "carrusel2": { "imagen": "images/slide/carrusel2.webp" },
             "carrusel3": { "imagen": "images/slide/carrusel3.webp" }
-        ]
     ],
     "femeninos": [
         {
