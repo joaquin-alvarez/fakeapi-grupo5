@@ -1,4 +1,11 @@
 {
+    "assets": [
+        "header-images": [
+            "carrusel1": { "imagen": "images/slide/carrusel1.webp" },
+            "carrusel2": { "imagen": "images/slide/carrusel2.webp" },
+            "carrusel3": { "imagen": "images/slide/carrusel3.webp" }
+        ]
+    ],
     "femeninos": [
         {
             "id": "fem01",
