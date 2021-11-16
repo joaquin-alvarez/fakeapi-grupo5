@@ -1,8 +1,8 @@
 {
     "header_images": [
-            { "id": 'img1', "imagen": "images/slide/carrusel1.webp" },
-            { "id": 'img2', "imagen": "images/slide/carrusel2.webp" },
-            { "id": 'img3', "imagen": "images/slide/carrusel3.webp" }
+            { "id": "img1", "imagen": "images/slide/carrusel1.webp" },
+            { "id": "img2", "imagen": "images/slide/carrusel2.webp" },
+            { "id": "img3", "imagen": "images/slide/carrusel3.webp" }
     ],
     "femeninos": [
         {
