@@ -1,142 +1,289 @@
 {
-    "header_images": [
-            { 
-                "id": "img1", 
-                "imagen": "images/slide/carrusel1.webp",
-                "titulo": "<strong> Shine</strong>",
-                "texto": "Tienda Shine, todo para sentirte bien",
-                "href": "#nosotros",
-                "textoB": "Conocenos!"
-            },
-            { 
-                "id": "img2", 
-                "imagen": "images/slide/carrusel2.webp",
-                "titulo": "<strong> Nuestros</strong> clientes nos recomiendan",
-                "texto": "",
-                "href": "#testimonios",
-                "textoB": "Escuchalos!"
-            },
-            { 
-                "id": "img3", 
-                "imagen": "images/slide/carrusel3.webp",
-                "titulo": "<strong> Encontrá</strong> las mejores ofertas",
-                "texto": "En Shine tenemos todo lo que estás buscando y a un precio increíble!",
-                "href": "#productosFemeninos",
-                "textoB": "Encontralo!"
-            }
-    ],
-    "productos":{
-        "femeninos": [
-            {
-                "id": "fem01",
-                "nombre": "Jabon de Cacao Exfoliante",
-                "descripcion": "Jabón elaborado artesanalmente mediante el método de saponificación en frío, bajo control de temperatura y tiempo de estacionamiento. Este proceso permite conservar la glicerina natural que se produce durante la saponificación (reacción química) y preserva las maravillosas propiedades antioxidantes del oliva y coco.",
-                "precio": "610.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "10",
-                "imagen": "images/productosMujer/productoMujer1.webp"
-            },
-            {
-                "id": "fem02",
-                "nombre": "Crema de Almendras y Coco",
-                "descripcion": "Crema corporal para piel sensible con aceite de oliva extra virgen, manteca de karite y leche de avena. Recomendada para pieles atópicas: sequedad, escamación, irritación, picor o que requieran cuidado extra.",
-                "precio": "1500.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "20",
-                "imagen": "images/productosMujer/productoMujer2.webp"
-            },
-            {
-                "id": "fem03",
-                "nombre": "Tonico Segin",
-                "descripcion": "Segin es un blend de aguas hidratantes vivas y calmantes activos con capacidad de equilibrio. Se recomienda su uso para piel seca y sensible.",
-                "precio": "1745.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "7",
-                "imagen": "images/productosMujer/productoMujer3.webp"
-            }
-        ],
-        "masculinos": [
-            {
-                "id": "mas01",
-                "nombre": "Crema de Enebro",
-                "descripcion": "Flexibilidad y movimiento diario. El calor y los masajes son la recomendación más antigua para aflojar las tensiones musculares y las molestias que éstas producen a raíz de contracturas, problemas de postura o de la actividad misma. Un masaje con Crema de Enebro relaja los músculos y, por su acción calorífica, ayuda a preparar el cuerpo antes de los deportes y la actividad física.",
-                "precio": "1950.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "25",
-                "imagen": "images/productosHombre/productoHombre1.webp"
-            },
-            {
-                "id": "mas02",
-                "nombre": "Tónico Caspa",
-                "descripcion": "Protección y control ante la descamación de la piel. El tónico caspa -de la línea Tratamiento Magistral Caspa para hombres- protege tu cabello y cuero cabelludo, aliviando la picazón, descamación y resequedad.",
-                "precio": "2420.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "17",
-                "imagen": "images/productosHombre/productoHombre2.webp"
-            },
-            {
-                "id": "mas03",
-                "nombre": "Shave Oil PURE",
-                "descripcion": "Protección de la piel durante el afeitado.El shave oil -de la línea saludable PURE para hombres- brinda protección e hidratación a la piel durante el proceso de afeitado, evitando irritaciones. ",
-                "precio": "2260.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "21",
-                "imagen": "images/productosHombre/productoHombre3.webp"
-            }
-        ],
-        "farmacia": [
-            {
-                "id": "far01",
-                "nombre": "Aucic Pure",
-                "descripcion": "Solución oftálmica esteril transparente, lubricante y humectante que actua sustituyendo temporalmente la insuficiencia de lagrimas protegiendo la conjuntiva y el epitelio de la cornea de la irritacion mecánica y la fricción de los parpados.",
-                "precio": "420.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "40",
-                "imagen": "images/productosFarmacia/farmacia1.webp"
-            },
-            {
-                "id": "far02",
-                "nombre": "Quelat Complex",
-                "descripcion": "Contiene Magnesio Quelato 200 mg + Zinc Quelato 7 mg + Selenio Quelato 50 mcg. Estos minerales desempeñan un papel muy importante en el organismo, ya que son necesarios para la elaboración de tejidos, para la síntesis de hormonas y en la mayor parte de las reacciones químicas en las que intervienen enzimas.",
-                "precio": "2135.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "20",
-                "imagen": "images/productosFarmacia/farmacia2.webp"
-            },
-            {
-                "id": "far03",
-                "nombre": "Xtracal Advanced",
-                "descripcion": "Suplemento a base de aceite de pescado, vitaminas y minerales en capsulas. Contiene complejo vitaminico B que ayuda al óptimo funcionamiento del sistema nervoso; ayuda a mejorar el sistema immunitario y ayuda a disminuir el cansancio, el estrés y la fatiga del día a día.",
-                "precio": "950.00",
-                "fechaPublicacion": "04/11/2021",
-                "cantidadDisponible": "5",
-                "imagen": "images/productosFarmacia/farmacia3.webp"
-            }
-        ]
-    },        
-    "testimonios" : 
+  "get": "fixtures",
+  "parameters": {
+    "league": "129",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "next": "4",
+    "season": "2022"
+  },
+  "errors": [],
+  "results": 4,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
     {
-        "usuarios": [
-            {
-                "nombre": "Juan",
-                "apellido": "Pérez",
-                "testimonio": "Utilizo productos cosméticos desde los 15 años y Shave Oil PURE es, con diferencia, el mejor que he probado jamás. Puedes sentir los principios activos penetrando literalmente en la piel, en lugar de quedarse en la superficie. Ahora tengo la piel más luminosa e hidratada..",
-                "imagen": "images/clientes/01.webp",
-                "social": {
-                    "facebook": "https://es-la.facebook.com/" ,
-                    "instagram": "https://www.instagram.com/?hl=es"
-                }
-            },
-            {
-                "nombre": "Ana",
-                "apellido": "Clara",
-                "testimonio": "Con diferencia el mejor tratamiento que he probado. Desde el momento en que me aplico Tonico Segin, me noto la piel y me veo mucho mejor: cierra los poros, el tono es más uniforme y la hidratación es perfecta. Y lo que me encanta es que el producto viene puro, no diluido. Es un tratamiento específico para mi tipo de piel. Otros productos comparables son entre tres y cuatro veces más caros..",
-                "imagen": "images/clientes/02.webp",
-                "social": {
-                    "facebook": "https://es-la.facebook.com/" ,
-                    "instagram": "https://www.instagram.com/?hl=es"
-                }
-            }
-        ]
+      "fixture": {
+        "id": 830499,
+        "referee": null,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "date": "2022-05-27T20:10:00-03:00",
+        "timestamp": 1653693000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1770,
+          "name": "Estadio Ofelia Rosenzuaig",
+          "city": "Carlos Casares, Provincia de Buenos Aires"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 129,
+        "name": "Primera B Nacional",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/129.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2022,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 462,
+          "name": "Agropecuario",
+          "logo": "https://media.api-sports.io/football/teams/462.png",
+          "winner": null
+        },
+        "away": {
+          "id": 468,
+          "name": "Brown DE Adrogue",
+          "logo": "https://media.api-sports.io/football/teams/468.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 830500,
+        "referee": null,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "date": "2022-05-28T15:10:00-03:00",
+        "timestamp": 1653761400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 84,
+          "name": "Estadio Juan Domingo Perón",
+          "city": "Ciudad de Córdoba, Provincia de Córdoba"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 129,
+        "name": "Primera B Nacional",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/129.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2022,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 478,
+          "name": "Instituto Cordoba",
+          "logo": "https://media.api-sports.io/football/teams/478.png",
+          "winner": null
+        },
+        "away": {
+          "id": 447,
+          "name": "Chacarita Juniors",
+          "logo": "https://media.api-sports.io/football/teams/447.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 830507,
+        "referee": null,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "date": "2022-05-28T15:10:00-03:00",
+        "timestamp": 1653761400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 94,
+          "name": "Estadio República de Mataderos",
+          "city": "Capital Federal, Ciudad de Buenos Aires"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 129,
+        "name": "Primera B Nacional",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/129.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2022,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 484,
+          "name": "Nueva Chicago",
+          "logo": "https://media.api-sports.io/football/teams/484.png",
+          "winner": null
+        },
+        "away": {
+          "id": 1946,
+          "name": "Chaco For Ever",
+          "logo": "https://media.api-sports.io/football/teams/1946.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 830501,
+        "referee": null,
+        "timezone": "America/Argentina/Buenos_Aires",
+        "date": "2022-05-28T15:30:00-03:00",
+        "timestamp": 1653762600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 102,
+          "name": "Estadio Beto Larrosa",
+          "city": "Villa Soldati, Provincia de Buenos Aires"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 129,
+        "name": "Primera B Nacional",
+        "country": "Argentina",
+        "logo": "https://media.api-sports.io/football/leagues/129.png",
+        "flag": "https://media.api-sports.io/flags/ar.svg",
+        "season": 2022,
+        "round": "Regular Season - 17"
+      },
+      "teams": {
+        "home": {
+          "id": 1942,
+          "name": "Sacachispas",
+          "logo": "https://media.api-sports.io/football/teams/1942.png",
+          "winner": null
+        },
+        "away": {
+          "id": 472,
+          "name": "Guillermo Brown",
+          "logo": "https://media.api-sports.io/football/teams/472.png",
+          "winner": null
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
     }
+  ]
 }
