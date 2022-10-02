@@ -31,7 +31,7 @@
             "hasMany": "User"
         }
     },
-
+    
     "Address": {
         "address": { "string": { } },
         "addressNumber": { "int": { "min": 1, "max": 200 } },
@@ -45,7 +45,7 @@
     },
 
     "User": {
-        "enabled": { "boolean": "true" },
+        "enabled": { "boolean": { true } },
         "password": { "string": {} },
         "role": { "belongsTo": "Role" },
         "username": { "string": {} }
