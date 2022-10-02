@@ -45,7 +45,7 @@
     },
 
     "User": {
-        "enabled": { "boolean": { true } },
+        "enabled": { "boolean": { } },
         "password": { "string": {} },
         "role": { "belongsTo": "Role" },
         "username": { "string": {} }
